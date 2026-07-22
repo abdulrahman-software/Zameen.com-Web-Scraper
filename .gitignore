@@ -1,0 +1,6 @@
+catboost_info/
+urls.txt
+server_logs.txt
+__pycache__/
+*.pyc
+.env
