@@ -1,0 +1,57 @@
+name: Monthly Zameen Scraper
+
+on:
+  schedule:
+    # Runs at 03:00 UTC on the 1st of every month
+    - cron: "0 3 1 * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write  # needed to commit the updated CSV back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Remove cached URLs (force a fresh scrape each month)
+        run: rm -f urls.txt
+
+      - name: Run scraper
+        env:
+          CI_MODE: "1"
+        run: python scraper.py
+
+      - name: Commit and push updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add islamabad_properties.csv urls.txt
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Monthly scrape: update islamabad_properties.csv ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
+
+      - name: Upload CSV as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: islamabad-properties-${{ github.run_id }}
+          path: islamabad_properties.csv
+          retention-days: 90
