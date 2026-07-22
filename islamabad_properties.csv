@@ -1,347 +1,348 @@
-Price,Area,City,Bedrooms,Bathrooms,Location,Property_Type,Built_in_year,Parking_space,Servant_Quarters,Store_rooms,Kitchens,Drawing_Rooms
-16 Crore,14 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-5 Crore,1.3 Kanal,Islamabad,5 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-67 Lakh,2.9 Marla,Islamabad,-,1 Bath,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,
-50 Crore,1.3 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-1.4 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-42 Crore,1.3 Kanal,Islamabad,5 Beds,7 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,
-2.49 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,
-65 Crore,4 Kanal,Islamabad,8 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-12.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.85 Crore,11 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.95 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-8.5 Crore,1 Kanal,Islamabad,8 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-2.45 Crore,3 Marla,Islamabad,4 Beds,4 Baths,"Park Road, Islamabad, Islamabad Capital",House,,,,,,
-6.4 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.1 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"Faisal Hills, Islamabad, Islamabad Capital",House,,,,,,
-40 Lakh,1.5 Marla,Islamabad,1 Bed,1 Bath,"Korang Town, Islamabad, Islamabad Capital",Flat,,,,,,
-3.85 Crore,9.3 Marla,Islamabad,4 Beds,5 Baths,"D-17, Islamabad, Islamabad Capital",House,,,,,,
-6.95 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-1.48 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-2.1 Crore,10 Marla,Islamabad,4 Beds,4 Baths,"Tarlai, Islamabad, Islamabad Capital",House,,,,,,
-6.75 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"G-16, Islamabad, Islamabad Capital",House,,,,,,
-3 Crore,7 Marla,Islamabad,5 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-8.8 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.4 Crore,5 Marla,Islamabad,3 Beds,2 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-2.95 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,
-4.5 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-6.75 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-5.25 Crore,6.7 Marla,Islamabad,5 Beds,6 Baths,"I-10, Islamabad, Islamabad Capital",House,,,,,,
-16 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-72 Lakh,2.2 Marla,Islamabad,-,-,"Islamabad Expressway, Islamabad, Islamabad Capital",Flat,,,,,,
-2.6 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-5.8 Crore,10.5 Marla,Islamabad,5 Beds,7 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-1.55 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.62 Crore,12.4 Marla,Islamabad,3 Beds,3 Baths,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,
-15.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.1 Crore,10.7 Marla,Islamabad,4 Beds,4 Baths,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,
-30 Crore,2 Kanal,Islamabad,10 Beds,-,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,6.7 Marla,Islamabad,3 Beds,3 Baths,"D-17, Islamabad, Islamabad Capital",Flat,,,,,,
-10.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.1 Crore,14 Marla,Islamabad,7 Beds,6 Baths,"G-15, Islamabad, Islamabad Capital",House,,,,,,
-11.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-58 Crore,1.3 Kanal,Islamabad,6 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-4 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,
-30 Crore,1.3 Kanal,Islamabad,9 Beds,7 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,
-13.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.2 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,
-10.75 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-57 Lakh,2.1 Marla,Islamabad,2 Beds,2 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",Flat,,,,,,
-7.7 Crore,1 Kanal,Islamabad,8 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.6 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-1.25 Crore,5 Marla,Islamabad,2 Beds,2 Baths,"Bhara kahu, Islamabad, Islamabad Capital",House,,,,,,
-14.75 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-15.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.48 Crore,8.8 Marla,Islamabad,3 Beds,3 Baths,"G-15, Islamabad, Islamabad Capital",Flat,,,,,,
-3.15 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"F-17, Islamabad, Islamabad Capital",House,,,,,,
-14.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.5 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-4.5 Crore,12 Marla,Islamabad,3 Beds,3 Baths,"Park Road, Islamabad, Islamabad Capital",House,,,,,,
-2.25 Crore,6 Marla,Islamabad,4 Beds,4 Baths,"Islamabad Expressway, Islamabad, Islamabad Capital",House,,,,,,
-2 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-83 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-12.95 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.4 Crore,7 Marla,Islamabad,5 Beds,5 Baths,"Gulberg, Islamabad, Islamabad Capital",House,,,,,,
-2.79 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-1.65 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.57 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,
-12.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-12.25 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.1 Crore,7.8 Marla,Islamabad,2 Beds,2 Baths,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,
-4.7 Crore,4 Marla,Islamabad,4 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-4.4 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-3.15 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-3.5 Crore,8 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-10 Crore,1 Kanal,Islamabad,10 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-4.15 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-9.5 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.3 Crore,4 Marla,Islamabad,4 Beds,4 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-21.9 Crore,1.2 Kanal,Islamabad,5 Beds,6 Baths,"F-10, Islamabad, Islamabad Capital",House,,,,,,
-1.4 Arab,5 Kanal,Islamabad,10 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,
-6.95 Crore,10 Marla,Islamabad,4 Beds,4 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-12 Crore,10.6 Marla,Islamabad,6 Beds,6 Baths,"G-10, Islamabad, Islamabad Capital",House,,,,,,
-40 Crore,1 Kanal,Islamabad,9 Beds,-,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-4 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"Gulberg, Islamabad, Islamabad Capital",House,,,,,,
-78 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-7.8 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"G-9, Islamabad, Islamabad Capital",House,,,,,,
-79 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-46 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-3.1 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-22 Crore,1.5 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.45 Crore,6 Marla,Islamabad,4 Beds,5 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,
-55 Lakh,1.8 Marla,Islamabad,1 Bed,1 Bath,"H-13, Islamabad, Islamabad Capital",Flat,,,,,,
-6.15 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-80 Lakh,3.6 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-70 Lakh,2 Marla,Islamabad,2 Beds,2 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-60 Crore,2.5 Kanal,Islamabad,5 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,
-85 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.7 Crore,5 Marla,Islamabad,3 Beds,2 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-6.25 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,
-13 Crore,16 Marla,Islamabad,9 Beds,7 Baths,"E-11, Islamabad, Islamabad Capital",House,,,,,,
-1 Arab,2.2 Kanal,Islamabad,7 Beds,-,"F-6, Islamabad, Islamabad Capital",House,,,,,,
-8 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-22 Crore,2 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.5 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-29.5 Crore,1 Kanal,Islamabad,4 Beds,5 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-1.7 Crore,3.1 Marla,Islamabad,2 Beds,2 Baths,"G-11, Islamabad, Islamabad Capital",Flat,,,,,,
-1.56 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-11.75 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-6.5 Crore,10 Marla,Islamabad,7 Beds,7 Baths,"Gulberg, Islamabad, Islamabad Capital",House,,,,,,
-12.85 Crore,14 Marla,Islamabad,8 Beds,7 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,
-70 Crore,2 Kanal,Islamabad,5 Beds,5 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-33 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-14 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-14.9 Crore,14 Marla,Islamabad,7 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-1.5 Crore,4.7 Marla,Islamabad,2 Beds,2 Baths,"H-13, Islamabad, Islamabad Capital",Flat,,,,,,
-13.6 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-30 Crore,5 Kanal,Islamabad,6 Beds,6 Baths,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,
-45 Crore,2.5 Kanal,Islamabad,7 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-3.65 Crore,7.7 Marla,Islamabad,2 Beds,2 Baths,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,
-8.75 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"G-10, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,5.1 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-46 Crore,3 Kanal,Islamabad,10 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.7 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-1.05 Crore,4 Marla,Islamabad,2 Beds,3 Baths,"Lehtrar Road, Islamabad, Islamabad Capital",House,,,,,,
-80 Crore,4 Kanal,Islamabad,10 Beds,-,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-8.7 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-16.5 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-13.5 Crore,1 Kanal,Islamabad,6 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.85 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-79 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-6.7 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-6.35 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-22 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-1.75 Arab,8 Kanal,Islamabad,8 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-13.85 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-76 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-75 Lakh,3 Marla,Islamabad,3 Beds,3 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-3.55 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,
-2.15 Crore,5.6 Marla,Islamabad,1 Bed,1 Bath,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,
-1.65 Crore,8 Marla,Islamabad,2 Beds,3 Baths,"E-18, Islamabad, Islamabad Capital",House,,,,,,
-3.25 Crore,11 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-6.2 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-2.32 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-9 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-8.4 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-9.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-7.35 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"G-9, Islamabad, Islamabad Capital",House,,,,,,
-9.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.45 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Multi Residencia & Orchards, Islamabad, Islamabad Capital",House,,,,,,
-32 Crore,4 Kanal,Islamabad,-,-,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,
-6.7 Crore,14.2 Marla,Islamabad,6 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-3.6 Crore,10 Marla,Islamabad,5 Beds,7 Baths,"D-17, Islamabad, Islamabad Capital",House,,,,,,
-2.6 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-17.5 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-9.25 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-13.5 Crore,14.2 Marla,Islamabad,9 Beds,7 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,
-69 Crore,2.2 Kanal,Islamabad,10 Beds,6 Baths,"F-10, Islamabad, Islamabad Capital",House,,,,,,
-10 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-85 Crore,10 Kanal,Islamabad,11 Beds,7 Baths,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,
-65 Lakh,2.7 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-2.62 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-2.98 Crore,7.3 Marla,Islamabad,2 Beds,2 Baths,"G-11, Islamabad, Islamabad Capital",Flat,,,,,,
-5.25 Crore,6 Marla,Islamabad,4 Beds,4 Baths,"I-10, Islamabad, Islamabad Capital",House,,,,,,
-4.6 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-15.3 Crore,14 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-15.5 Crore,1 Kanal,Islamabad,4 Beds,5 Baths,"F-8, Islamabad, Islamabad Capital",Flat,,,,,,
-3 Crore,9 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-13.8 Crore,1 Kanal,Islamabad,-,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-13.85 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.15 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.1 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-1.8 Crore,5 Marla,Islamabad,4 Beds,-,"National Police Foundation O-9, Islamabad, Islamabad Capital",House,,,,,,
-2.7 Crore,5 Marla,Islamabad,3 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-14.5 Crore,1 Kanal,Islamabad,7 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-12 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-14.8 Crore,2 Kanal,Islamabad,8 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-13.5 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-1.35 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-1.7 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-14.9 Crore,1.1 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-29 Crore,1.3 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-29 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-3.15 Crore,13.3 Marla,Islamabad,4 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-1.6 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-6 Crore,7.8 Marla,Islamabad,3 Beds,3 Baths,"F-10, Islamabad, Islamabad Capital",Flat,,,,,,
-3.8 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-2.2 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-5.3 Crore,4 Marla,Islamabad,3 Beds,3 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-1.17 Crore,2.8 Marla,Islamabad,1 Bed,1 Bath,"G-15, Islamabad, Islamabad Capital",Flat,,,,,,
-10 Crore,1.6 Kanal,Islamabad,8 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-14.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-22.25 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-9.6 Crore,7.1 Marla,Islamabad,2 Beds,2 Baths,"Blue Area, Islamabad, Islamabad Capital",Flat,,,,,,
-6.75 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-12.95 Crore,15 Marla,Islamabad,9 Beds,7 Baths,"G-10, Islamabad, Islamabad Capital",House,,,,,,
-80 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.85 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-3.75 Crore,5.7 Kanal,Islamabad,2 Beds,2 Baths,"GT Road, Islamabad, Islamabad Capital",Farm House,,,,,,
-12.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.7 Crore,8 Marla,Islamabad,6 Beds,6 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-18 Crore,1.5 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-11.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-30 Crore,1.3 Kanal,Islamabad,9 Beds,7 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,
-3.2 Crore,6 Marla,Islamabad,5 Beds,6 Baths,"I-14, Islamabad, Islamabad Capital",House,,,,,,
-2.5 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"Faisal Hills, Islamabad, Islamabad Capital",House,,,,,,
-4.44 Crore,4 Marla,Islamabad,5 Beds,5 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-13 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"G-10, Islamabad, Islamabad Capital",House,,,,,,
-9.75 Crore,9.3 Marla,Islamabad,4 Beds,4 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-1.9 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-8.6 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-14.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-24.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-4 Crore,6.4 Marla,Islamabad,2 Beds,4 Baths,"Park View City, Islamabad, Islamabad Capital",Flat,,,,,,
-7.95 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.25 Crore,8 Marla,Islamabad,5 Beds,7 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-2.3 Crore,5 Marla,Islamabad,6 Beds,7 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-9.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-55 Crore,2.5 Kanal,Islamabad,5 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-9.3 Crore,14 Marla,Islamabad,8 Beds,6 Baths,"G-14, Islamabad, Islamabad Capital",House,,,,,,
-10.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-11 Crore,1 Kanal,Islamabad,10 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-6 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"G-14, Islamabad, Islamabad Capital",House,,,,,,
-2.3 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-12.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-70 Crore,2.2 Kanal,Islamabad,10 Beds,7 Baths,"F-10, Islamabad, Islamabad Capital",House,,,,,,
-24 Crore,1 Kanal,Islamabad,4 Beds,5 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-11.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-17 Crore,1 Kanal,Islamabad,8 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-8.8 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-24 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-1.9 Crore,5.5 Marla,Islamabad,2 Beds,2 Baths,"G-15, Islamabad, Islamabad Capital",Flat,,,,,,
-1.55 Crore,5.6 Marla,Islamabad,2 Beds,2 Baths,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,
-12 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-65 Crore,4 Kanal,Islamabad,10 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-7.5 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4 Crore,4 Marla,Islamabad,4 Beds,4 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-19.5 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.72 Crore,4.9 Marla,Islamabad,2 Beds,-,"Islamabad Expressway, Islamabad, Islamabad Capital",Flat,,,,,,
-7.8 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-28 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-19 Crore,2 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.2 Crore,7 Marla,Islamabad,4 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-13.8 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-14 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.6 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"F-17, Islamabad, Islamabad Capital",House,,,,,,
-4.2 Crore,7 Marla,Islamabad,5 Beds,5 Baths,"Gulberg, Islamabad, Islamabad Capital",House,,,,,,
-12.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-7.5 Crore,5 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-35 Crore,4 Kanal,Islamabad,7 Beds,7 Baths,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,
-2.4 Crore,5 Marla,Islamabad,-,-,"Faisal Hills, Islamabad, Islamabad Capital",House,,,,,,
-1.19 Crore,3.5 Marla,Islamabad,2 Beds,2 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,
-5.3 Crore,5 Marla,Islamabad,5 Beds,6 Baths,"G-14, Islamabad, Islamabad Capital",House,,,,,,
-30 Crore,1.3 Kanal,Islamabad,9 Beds,7 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,
-13 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-5 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-7 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"G-16, Islamabad, Islamabad Capital",House,,,,,,
-22 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.5 Crore,8 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-1.35 Crore,6.7 Marla,Islamabad,4 Beds,4 Baths,"I-16, Islamabad, Islamabad Capital",Flat,,,,,,
-1.35 Arab,5 Kanal,Islamabad,10 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,
-3.25 Crore,4 Marla,Islamabad,5 Beds,5 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,
-12.9 Crore,1 Kanal,Islamabad,5 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-7.8 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-2.85 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-4.25 Crore,8 Marla,Islamabad,6 Beds,6 Baths,"Kuri Road, Islamabad, Islamabad Capital",House,,,,,,
-9.25 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.4 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-1.75 Crore,4.4 Marla,Islamabad,-,1 Bath,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,
-1.7 Crore,4.9 Marla,Islamabad,2 Beds,2 Baths,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,
-1.95 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-4.55 Crore,10 Marla,Islamabad,4 Beds,6 Baths,"River Garden, Islamabad, Islamabad Capital",House,,,,,,
-2.6 Crore,5 Marla,Islamabad,5 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,
-5.4 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-45 Crore,5 Kanal,Islamabad,6 Beds,6 Baths,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-3.8 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-11 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.9 Crore,6 Marla,Islamabad,4 Beds,2 Baths,"Kuri Road, Islamabad, Islamabad Capital",House,,,,,,
-12.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.3 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"E-17, Islamabad, Islamabad Capital",House,,,,,,
-30 Crore,2 Kanal,Islamabad,7 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-10.9 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.45 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,
-11.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-41.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-46 Crore,2.1 Kanal,Islamabad,6 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-78 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.75 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-1.1 Crore,4.2 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-9.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,
-3.6 Crore,7 Marla,Islamabad,5 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,
-65 Crore,3.6 Kanal,Islamabad,7 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-15.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-48 Crore,1.3 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-1.2 Crore,3 Marla,Islamabad,4 Beds,4 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,
-52 Crore,2.1 Kanal,Islamabad,8 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,6.3 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-4.75 Crore,14.2 Marla,Islamabad,3 Beds,3 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,
-1.84 Crore,8 Marla,Islamabad,2 Beds,3 Baths,"F-17, Islamabad, Islamabad Capital",House,,,,,,
-1.25 Crore,5 Marla,Islamabad,2 Beds,3 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-16 Crore,2.3 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.59 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-4.6 Crore,4 Marla,Islamabad,3 Beds,4 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,
-12.8 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-12 Crore,10 Marla,Islamabad,7 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,
-78 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.18 Crore,4.9 Marla,Islamabad,1 Bed,1 Bath,"Bahria Town, Islamabad, Islamabad Capital",Flat,,,,,,
-38.5 Crore,17.8 Marla,Islamabad,7 Beds,7 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,
-80 Lakh,3.9 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-14.9 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-32 Crore,2 Kanal,Islamabad,8 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-10.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-7.15 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.8 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"National Police Foundation O-9, Islamabad, Islamabad Capital",House,,,,,,
-78 Lakh,2.3 Marla,Islamabad,1 Bed,1 Bath,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,
-46 Crore,2.5 Kanal,Islamabad,8 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-1.75 Crore,6.3 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-3.5 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,
-1.6 Crore,8 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-5.15 Crore,7 Marla,Islamabad,4 Beds,4 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-40 Crore,1.3 Kanal,Islamabad,5 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,
-13.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-6.25 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,
-1.65 Crore,5 Marla,Islamabad,5 Beds,6 Baths,"Ghauri Town, Islamabad, Islamabad Capital",House,,,,,,
-26 Crore,1.3 Kanal,Islamabad,6 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,
-3.75 Crore,4 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-2.25 Crore,4.9 Marla,Islamabad,2 Beds,2 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,
-1.1 Crore,4.2 Marla,Islamabad,2 Beds,2 Baths,"GT Road, Islamabad, Islamabad Capital",Flat,,,,,,
-5.8 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-16 Crore,2.5 Kanal,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-2.8 Crore,7.8 Marla,Islamabad,2 Beds,2 Baths,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,
-2.48 Crore,6.9 Marla,Islamabad,2 Beds,2 Baths,"Canyon Views Cvrp, Islamabad, Islamabad Capital",Flat,,,,,,
-1.32 Crore,3.5 Marla,Islamabad,-,-,"Faisal Hills, Islamabad, Islamabad Capital",Flat,,,,,,
-1.15 Crore,5.1 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,
-81 Lakh,7 Marla,Islamabad,3 Beds,3 Baths,"F-17, Islamabad, Islamabad Capital",Flat,,,,,,
-12.99 Crore,14.2 Marla,Islamabad,7 Beds,7 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,
-78 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,
-1.48 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,
-24 Crore,1.2 Kanal,Islamabad,9 Beds,-,"D-12, Islamabad, Islamabad Capital",House,,,,,,
+Price,Area,City,Bedrooms,Bathrooms,Location,Property_Type,Built_in_year,Parking_space,Servant_Quarters,Store_rooms,Kitchens,Drawing_Rooms,Listing_URL
+16 Crore,14 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,
+13.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_designer_house_for_sale_in_dha_phase_2_islamabad-54120587-339-1.html
+1 Crore,2.4 Marla,Islamabad,1 Bed,1 Bath,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/gulberg_greens_smama_star_mall_residency_01_bedroom_luxury_apartment_available_for_sale_at_smama_gulberg_gulberg_green_islamabad-54504610-11278-1.html
+6.25 Crore,7 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_30x60_beautifull_house_for_sale_in_g-13-54447099-330-1.html
+1.25 Crore,4.9 Marla,Islamabad,1 Bed,2 Baths,"Bahria Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_a_luxury_1-bed_apartment_for_sale_premium_residential_building_bahria_enclave_islamabad-54502090-11970-1.html
+4.1 Crore,7 Marla,Islamabad,4 Beds,7 Baths,"I-14, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-14_7_2_marla_luxury_house_available_for_sale_in_cda_sector_i_14_4_islamabad-54394973-1045-1.html
+2.4 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_brand_new_5_marla_house_available_for_sale_in_reasonable_price_and_prime_location_bharia_enclave_sector_n-54218872-1705-1.html
+13.5 Crore,14 Marla,Islamabad,8 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_2_14_marla_house_for_sale_in_d-12_2_islamabad-54300275-3155-1.html
+16 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_best_house_of_dha_available_for_sale-54162847-339-1.html
+6.5 Crore,5.2 Marla,Islamabad,1 Bed,1 Bath,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_one_bed_fully_furnished_apartment_for_sale-42368695-9063-1.html
+13.85 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_b_highly-coveted_corner_1_kanal_house_is_available_in_dha_phase_2_-_sector_b_for_sale-54497478-3197-1.html
+22.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_demolishable_50x90_house_is_for_sale-54504475-166-1.html
+6.25 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_designer_a_grade_10_marla_house-54186920-1705-1.html
+30 Crore,2 Kanal,Islamabad,10 Beds,6 Baths,"F-10, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-10_f_10_house_available_80_120_in_close_and_street-54024259-162-1.html
+11.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_western_design_1_kanal_brand_new_designer_house_ready_for_sale_in_dha_defense_phase_2_islamabad-54504222-339-1.html
+8.5 Crore,10 Marla,Islamabad,7 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_10_marla_35x70_beautiful_brand_new_first_entry_double_storey_modern_house_for_sale_in_g-13_islamabad-53635548-330-1.html
+11 Crore,14 Marla,Islamabad,3 Beds,3 Baths,"I-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_8_i-8_3_get_in_touch_now_to_buy_a_prime_location_house_in_i-8_3_islamabad-51095040-3443-1.html
+11.95 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_double_unit_house_for_sale_at_dha_phase_ii_islamabad-54001021-339-1.html
+1.56 Crore,4.3 Marla,Islamabad,1 Bed,1 Bath,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_zaraj_housing_scheme_cda_approved_1_bed_spacious_apartment_for_sale_in_zaraj_gt_road_islamabad-54488784-3508-1.html
+13.8 Crore,1 Kanal,Islamabad,7 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_designer_house_for_sale_in_dha_phase_2_sector_e_islamabad-54328064-339-1.html
+13.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_g_corner_1_kanal_brand_new_luxury_house_for_sale_in_dha_phase_2_islamabad-54323360-3202-1.html
+2.75 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_h_6_marla_luxury_house_for_sale_in_sector_h_bahria_enclave_islamabad_3_bed_extra_land_prime_location-54487805-11983-1.html
+14 Crore,2.3 Kanal,Islamabad,10 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_b-17_extremely_beautiful_white_house_for_sale-54505264-616-1.html
+8.9 Crore,8 Marla,Islamabad,6 Beds,7 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-11_for_sale_park-facing_masterpiece_30x60_double-story_luxury_house_sector_g-11_1_islamabad-54487343-168-1.html
+70 Lakh,2.1 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_goldcrest_highlife_1_bedroom_475_sqrt_for_sale_in_goldcrest_highlife-54381265-21059-1.html
+14 Crore,3.5 Kanal,Islamabad,6 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_3_kanal_spacious_house_available_in_bani_gala_for_sale-54474237-340-1.html
+5.5 Crore,10 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_10marla_brand_new_house_for_sale_c_1_block_b_17_islamabad-54220820-12607-1.html
+10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_designer_house_for_sale_near_giga_mall-54120620-339-1.html
+1.86 Crore,4.5 Marla,Islamabad,1 Bed,1 Bath,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/b_17_j7_emporium_prominently-located_flat_available_in_j7_emporium_for_sale-54073623-17263-1.html
+6.75 Crore,10 Marla,Islamabad,7 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_a_10_marla_luxury_modern_house_available_for_sale_in_bahria_enclave_islamabad-54501366-11970-1.html
+2.3 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_b_17_f_block_5marla_brand_new_house_for_sale_designer_house-53861082-8527-1.html
+3.6 Crore,6 Marla,Islamabad,4 Beds,6 Baths,"Korang Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_korang_town_6_marla_brand_new_designer_house_for_sale_in_korang_town_islamabad-54116047-445-1.html
+5.6 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_brand_new_10_marla_designer_house_available_for_sale_sector_a_lop_approved_cda_approved-53895716-1705-1.html
+1.8 Crore,4.3 Marla,Islamabad,1 Bed,1 Bath,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_top_luxury_apartments_1_bed_available_forsale-52967946-1383-1.html
+1.45 Crore,3.9 Marla,Islamabad,2 Beds,3 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/gulberg_greens_diamond_mall_residency_2_bed_ready-to-move_luxury_apartment_diamond_mall_gulberg_greens_islamabad-54482932-10982-1.html
+3.3 Crore,7 Marla,Islamabad,7 Beds,6 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_faisal_town_-_f-18_brand_new_house_available_for_sale_in_faisal_town_islamabad_block_a-50242791-8260-1.html
+4.6 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_d_10_marla_brand_new_house_for_sale-54304423-9233-1.html
+1.25 Crore,3.3 Marla,Islamabad,1 Bed,2 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/gulberg_greens_prism_heights_gulberg_gulberg_heights_furnished_one_bed_options_available-54501626-15033-1.html
+14.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_modern_1_kanal_house_for_sale_dha_phase_2_islamabad-54419284-339-1.html
+6.7 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_10_marla_double_unit_bran_dnew_house_available_for_sale_in_dha_phase_2_islamabad-54101582-339-1.html
+1.3 Crore,4.8 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_defence_executive_apartments_1_bedroom_defence_executive_for_sale_in_dha_phase_2_islamabad-54487795-9615-1.html
+4.2 Crore,10.1 Marla,Islamabad,7 Beds,6 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_d_10_marla_double_storey_house_is_available_for_sale-47609630-3494-1.html
+2.3 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"Faisal Hills, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/faisal_hills_faisal_hills_-_executive_block_faisal_hills_executive_block_5_marla_double_unit_house_for_sale-53916103-16527-1.html
+10.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_western_design_1_kanal_brand_new_designer_house_ready_for_sale_in_dha_defense_phase_2_islamabad-54328701-339-1.html
+12 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_1_10_marla_ideal_luxury_single_unit_house_for_sale-54390493-3154-1.html
+5.1 Crore,12 Marla,Islamabad,7 Beds,6 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_pwd_housing_scheme_beautiful_house_triple_storey_and_good_location-53280340-424-1.html
+1.35 Arab,5 Kanal,Islamabad,10 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-6_f_6_2_100_225_corner_house_available_2_houses_build_in_this_plot-52281535-164-1.html
+2.65 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_n_bharia_enclave_islamabad_sector_n_5_marla_brand_new_house_for_sale-54343383-11975-1.html
+5.5 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_designer_house_for_sale_in_sector_c1_bahria_enclave_islamabad-54500665-11987-1.html
+14.4 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_designer_house_for_sale_in_dha_phase_2_islamabad-54323212-339-1.html
+14.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_solid_built_1_kanal_brand_new_designer_house_ready_for_sale_in_dha_defence_phase_2_islamabad-54247215-339-1.html
+10.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_one_kanal_ultra_luxury_house_for_sale_in_dha_phase_2_islamabad-54104545-339-1.html
+14 Lakh,5 Marla,Islamabad,3 Beds,4 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_1_5_storey_brand_new_house_for_sale-53798942-340-1.html
+6 Crore,7.6 Marla,Islamabad,2 Beds,2 Baths,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_luxury_2-bedroom_apartment_for_sale_in_diplomatic_enclave_islamabad-54504316-429-1.html
+13.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_beautiful_house_for_sale_in_dha_phase_2_islamabad-54150609-339-1.html
+2.3 Crore,5 Marla,Islamabad,6 Beds,7 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_h-13_5_marla_triple_storey_house_for_sale-52696774-1039-1.html
+13.25 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_spanish_villa_for_sale_in_dha_phase_2-54156053-339-1.html
+1.7 Crore,4.3 Marla,Islamabad,1 Bed,1 Bath,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_k_top_luxury_1_bed_all_dues_clear_964_square_feet_available_to_sale-54321481-16277-1.html
+13.95 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_luxury_house_for_sale_in_dha_phase_2_islamabad-53583485-339-1.html
+11.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_beautiful_house_for_sale_in_dha_phase_2_islamabad-54152159-339-1.html
+10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_1_kanal_luxury_designer_corner_house_for_sale_b-17_block_c_near_j7_emporium_multi_zoo-54429348-3117-1.html
+11.6 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_elegant_house_with_complete_marghalla_view_from_terrace-52751497-339-1.html
+1.2 Crore,5.8 Marla,Islamabad,1 Bed,1 Bath,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_e-11_furnished_apartment_for_sale-54505136-329-1.html
+12.5 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"I-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_8_i-8_3_35_80_house_for_sale-54450715-3443-1.html
+1.45 Crore,5.5 Marla,Islamabad,2 Beds,2 Baths,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_ready_to_move_2_bed_apartment_for_sale-54212581-1383-1.html
+1.2 Crore,4.9 Marla,Islamabad,1 Bed,2 Baths,"Bahria Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/bahria_enclave_cube_apartments_bahria_enclave_1_bed_cube_apartment_brand_new_7th_floor_children_park_facing_1058_sq_feet_possession_utility_circulation_and_parking_charges_paid_available_for_sale-53153019-21520-1.html
+7.5 Crore,8.9 Marla,Islamabad,2 Beds,2 Baths,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_luxurious_2_bed_rooms_apartment_for_sale_marglla_view-54504318-429-1.html
+13 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_f_1_kanal_brand_new_luxury_house_for_sale_in_dha_phase_2_islamabad-54323195-3201-1.html
+10.5 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_kanal_luxury_house_available_for_sale-54504906-1383-1.html
+3.8 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_brand_new_5_marla_house_for_sale_in_sector_f_street_71_dha_5_islamabad-54496637-10991-1.html
+1.25 Crore,4.8 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_defence_executive_apartments_1074_square_feet_flat_up_for_sale_in_defence_executive_apartments-54504908-9615-1.html
+10 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"G-14, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/g_14_g-14_4_g_14_4_size_35x70_10_marla_brand_new_house_for_sale_beautiful_location-54363668-3346-1.html
+29 Crore,1 Kanal,Islamabad,4 Beds,5 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_investor_alert_f7_2_500_syd_old_house_best_location_4_bedroom_drawing_dining_tv_lounge_servant_quarter_kitchen_near_to_markaz_and_margalla_road-54366173-165-1.html
+1.2 Arab,2 Kanal,Islamabad,8 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-6_f6_4_luxury_house_for_sale-54499484-164-1.html
+1.05 Crore,2.4 Marla,Islamabad,1 Bed,1 Bath,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/gulberg_greens_diamond_mall_residency_1_bed_ready-to-move_luxury_apartment_diamond_mall_gulberg_greens_islamabad-54490059-10982-1.html
+5.4 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_ideal_house_for_sale_in_d-12-54313029-160-1.html
+11.7 Crore,16 Marla,Islamabad,5 Beds,5 Baths,"E-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_e-11_beautiful_location_like_brand_new_house_for_sale-54390375-329-1.html
+3.2 Crore,13.3 Marla,Islamabad,4 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_askari_heights_5_brand_new_apartment_for_sale-54160832-22450-1.html
+10.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_b-17_b_block_1_kanal_brand_new_designer_luxury_house_for_sale_double_height_a_construction-54503994-3117-1.html
+2.55 Crore,4 Marla,Islamabad,5 Beds,5 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-11_solid_construction_4_marla_house_for_sale-53795859-706-1.html
+16.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_fully_furnished_1_kanal_spanish_style_house_for_sale_in_dha_phase_2_sector_b_islamabad-54331235-339-1.html
+5.5 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c2_brand_new_house_for_sale_sector_c2_bahria_enclave_islamabad-54466673-11988-1.html
+12.5 Crore,14 Marla,Islamabad,6 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_40_80_14marla_brand_new_house_available_for_sale_in_g13_rent_value_4_lac-54486418-330-1.html
+45 Crore,5 Kanal,Islamabad,11 Beds,7 Baths,"Gulberg, Islamabad, Islamabad Capital",Farm House,,,,,,,https://www.zameen.com/Property/gulberg_gulberg_greens_premium_luxury_5_kanal_fully_furnished_farmhouse_grand_double_height_entrance_gulberg_greens_islamabad-54502349-8312-1.html
+42 Crore,1.3 Kanal,Islamabad,8 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_7_f-7_1_beautiful_furnished_house_three_side_corner_available_for_sale_in_f-7_islamabad-54417333-3307-1.html
+3.85 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_brand_new_good_location_house_for_sale-54462945-10991-1.html
+7.5 Crore,5 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_5_marla_house_for_sale_in_d-12-54313034-160-1.html
+2.7 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_5_marla_brand_new_designer_house_for_sale_b_17_islamabad-53926213-12607-1.html
+4.15 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_brand_new_8_marla_executive_house_for_sale_in_e_block_mpchs-54505305-3120-1.html
+5.5 Crore,4.4 Marla,Islamabad,3 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_1_4_44_marla_luxury_single_unit_house_for_sale_in_cda_sector_d-12_1_islamabad-54487943-3154-1.html
+11 Crore,1 Kanal,Islamabad,8 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_beautiful_house_for_sale_in_dha_phase_2_in_islamabad-54414684-339-1.html
+11.5 Crore,1 Kanal,Islamabad,8 Beds,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_a_1_kanal_brand_new_designer_luxury_house_corner_for_sale_b_17_islamabad-53921541-3116-1.html
+95 Lakh,3.8 Marla,Islamabad,2 Beds,2 Baths,"Tarnol, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/fazaia_housing_scheme_fazaia_housing_scheme_block_a_flat_for_sale_size_858_square_feet_block_a-53777984-16782-1.html
+4.3 Crore,8 Marla,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_b17_block_e_brand_new_house_available_for_sale_a_construction-54457593-3120-1.html
+54 Crore,2.1 Kanal,Islamabad,6 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_80x120_corner_prime_location_house_is_for_sale-54498799-165-1.html
+12.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_luxury_house_for_sale_in_dha_phase_2_islamabad-53583491-339-1.html
+9 Crore,2 Kanal,Islamabad,9 Beds,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_extra_land_corner_main_double_road_triple_storey_brand_new_house_for_sale-54163628-3117-1.html
+16 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_fully_furnished_1_kanal_stylish_house_for_sale_in_dha_phase_2_islamabad-54495231-339-1.html
+3.5 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/jinnah_gardens_jinnah_gardens_phase_1_brand_new_7_marla_double_storey_cda_lop_approved_house_is_available_in_jinnah_garden_phase_1_islamabad-52584111-1421-1.html
+1.5 Crore,3.8 Marla,Islamabad,2 Beds,2 Baths,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_e-11_2_bed_apartment_with_beautiful_view-54418480-329-1.html
+11.5 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_g_1_kanal_brand_new_luxury_house_for_sale_in_dha_phase_2_islamabad-54323224-3202-1.html
+7.4 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_corner_1_kanal_house_for_sale-54183915-1383-1.html
+5.7 Crore,10 Marla,Islamabad,8 Beds,7 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_10_marla_luxury_house_with_basement_for_sale_sector_c1_bahria_enclave_islamabad-54398830-11987-1.html
+7 Crore,6.9 Marla,Islamabad,2 Beds,2 Baths,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_diplomatic_enclave_fully_furnished_2_bed_apartment_available_for_sale-54504302-9063-1.html
+1.63 Crore,6 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_goldcrest_highlife_goldcrest_highlife_1_2_bedroom_for_sale-54385200-21059-1.html
+13.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_b_1_kanal_ultra_luxurious_designer_house_for_sale_in_dha-2_islamabad-53041862-3197-1.html
+9.25 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_house_on_investor_price_ready_for_sale_in_dha_defence_phase_5_islamabad-54250835-339-1.html
+32.5 Crore,1.2 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_margalla_facing_street_corner_wide_front_house_is_for_sale-54504839-166-1.html
+22.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_50x90_investment_alert_f-8_islamabad-54504385-166-1.html
+99 Crore,3.6 Kanal,Islamabad,4 Beds,5 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_f7_porsche_located_1777_sqy_big_lawn_house_near_to_margalla_road_for_sale-54119721-165-1.html
+2.7 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_5_marla_luxury_house_for_sale_double_unit_f_block_b_17_islamabad-54495099-8527-1.html
+95 Lakh,4.5 Marla,Islamabad,2 Beds,2 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/faisal_town_f_18_faisal_town_phase_1_2_bed_furnished_apartment_for_sale_on_cheaper_rate-39440012-16415-1.html
+1.25 Crore,4.9 Marla,Islamabad,1 Bed,2 Baths,"Bahria Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/bahria_enclave_cube_apartments_cube_1_bed_available_for_sale-54500586-21520-1.html
+6.8 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/pwd_housing_scheme_pwd_housing_society_-_block_b_beautiful_house_for_sale-53600253-15003-1.html
+3.8 Crore,10 Marla,Islamabad,4 Beds,4 Baths,"Kashmir Highway, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/kashmir_highway_eighteen_10_marla_luxury_premium_villa_plot_in_eighteen_islamabad_available_for_sale-54155476-12602-1.html
+8 Crore,8.9 Marla,Islamabad,2 Beds,3 Baths,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_karakoram_diplomatic_enclave_fully_furnished_2_bed_apartment_available_for_sale-54504304-9063-1.html
+8.25 Crore,9.8 Marla,Islamabad,5 Beds,5 Baths,"G-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-6_a_2200_square_feet_house_has_landed_on_market_in_g-6-52142556-169-1.html
+33 Crore,1.3 Kanal,Islamabad,4 Beds,4 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_for_sale_666_sqyrd_renovated_double_storey_cda_transfer_f_7_4-54483434-165-1.html
+4.25 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"I-14, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-14_i-14_3_house_for_sale-54504659-1045-1.html
+1.45 Crore,5.5 Marla,Islamabad,2 Beds,2 Baths,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_brand_new_flat_for_sale-47177548-1383-1.html
+12.5 Crore,1 Kanal,Islamabad,-,-,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_ideal_house_in_islamabad_available_for_rs_12500000-54504310-11987-1.html
+60 Lakh,3.4 Marla,Islamabad,2 Beds,2 Baths,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_specious_two_bedrooms_apartment_for_sale-53600041-3117-1.html
+8.7 Crore,14 Marla,Islamabad,7 Beds,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_14_marla_brand_new_designer_house_for_sale_b-17_block_b_60ft_road_15kw_solar-54429393-3117-1.html
+3.1 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_n_brand_new_7_marla_corner_house_for_sale_in_sector_n_4_bedroom_best_location_for_living_bahria_enclave_islamabad-54435762-11975-1.html
+12.5 Crore,1.5 Kanal,Islamabad,8 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_30_marla_corner_owner_build_house_dha_phase_5_islamabad-54484662-10991-1.html
+2.5 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_5_marla_brand_new_double_unit_house_for_sale_f_block_b17-54342795-8527-1.html
+3.35 Crore,7 Marla,Islamabad,4 Beds,4 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_faisal_town_-_f-18_faisal_town_7_marla_house_for_sale-53749716-8260-1.html
+11.25 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_ultra_designer_luxury_house_for_sale_dha_phase_2_islambad-54170916-339-1.html
+8.25 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_e_10_marla_single_unit_house_for_sale_in_dha_2_islamabad_on_double_road_second_to_corner_it_will_be_ready_in_15-20_days_excellent_and_beautiful_house-54069877-3200-1.html
+4.85 Crore,11 Marla,Islamabad,5 Beds,5 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_11_marla_designer_house_for_sale_in_banigala-54083973-340-1.html
+2.1 Arab,5 Kanal,Islamabad,7 Beds,7 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-6_5_5_kanal_main_margalla_road_house_with_extra_land_is_for_sale-54495988-164-1.html
+4.1 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_luxury_5_marla_house_for_sale_dha_islamabad-54421398-339-1.html
+32.5 Crore,1.2 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_street_corner_wide_front_old_house_is_for_sale-54504904-166-1.html
+75 Lakh,2 Marla,Islamabad,1 Bed,1 Bath,"Ghauri Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_ghauri_town_this_is_your_chance_to_buy_flat_in_ghauri_town-51464095-1314-1.html
+3.85 Crore,7 Marla,Islamabad,5 Beds,7 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/jinnah_gardens_jinnah_gardens_phase_1_beautiful_brand_new_double_unit_house_available_for_sale_lop_approved-54454811-1421-1.html
+7.25 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_f_1_kanal_most_luxury_double_unit_brand_new_house_0km_distance_to_isb_expressway_with_gas-53948389-3496-1.html
+5.6 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_10_marla_modern_designed_house_with_full_heighted_entrence-52077182-1705-1.html
+90 Lakh,2.5 Marla,Islamabad,1 Bed,1 Bath,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/e_11_e-11_2_luxury_apartment_in_e-11_islamabad_stunning_margalla_hills_view-54453706-3233-1.html
+7.35 Crore,7 Marla,Islamabad,5 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_30_60_8_marla_brand_new_house_available_for_sale_in_g13_rent_value_2_25_lak-54486467-330-1.html
+3.89 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_5_marla_luxury_design_house_for_sale-53633585-10991-1.html
+4.15 Crore,12 Marla,Islamabad,4 Beds,5 Baths,"E-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/e_11_e-11_1_e11_1_margala_hills_tower_4beds_apartment_for_sale-54418619-3230-1.html
+7 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/pwd_housing_scheme_pwd_housing_society_-_block_a_prime_location_pwd_housing_society_-_block_a_house_sized_12_marla-54492454-15004-1.html
+15 Crore,14 Marla,Islamabad,6 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_d-12_house_sized_14_marla_for_sale-54300274-160-1.html
+60 Lakh,3.8 Marla,Islamabad,2 Beds,2 Baths,"D-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_d-17_d17_2_mvhs_2_bed_with_store_corner_flat_available_for_sale-54372221-737-1.html
+2.8 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_5_marla_triple_height_designer_house_luxury_single_unit_for_sale_c_1_block_b_17_islamabad-54182425-12607-1.html
+2.6 Crore,5 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_b17_block_c1_luxury_a_plus_construction_house_available_for_sale-54338416-12607-1.html
+4 Crore,1 Kanal,Islamabad,3 Beds,4 Baths,"Margalla Valley - C-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_margalla_valley_-_c-12_1_kanal_structure_for_sale-54504615-8529-1.html
+10.75 Crore,1 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_designer_house_available_for_sale_in_prime_location_of_dha_2_islamabad-54417552-339-1.html
+4.2 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_a_1800_square_feet_house_is_available_for_sale-54174504-16416-1.html
+14 Crore,2.3 Kanal,Islamabad,-,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_b-17_e_block_1_kanal_luxury_house_with_25_marla_private_garden_rare_opportunity-54491489-3120-1.html
+4 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_tb-17_e_block_30x60_brand_new_designer_house_double_height_for_sale-54482552-3120-1.html
+4.15 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_5_marla_house_for_sale_in_dha_phase_5_prime_location-54284067-10991-1.html
+2.44 Crore,5.4 Marla,Islamabad,2 Beds,2 Baths,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_j_beautiful_margalla_view_2_bed_apartment_available_on_installments-54500245-16276-1.html
+15.3 Crore,14 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_14_marla_spacious_house_is_available_in_d-12_for_sale-54065484-160-1.html
+5 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_a_a_block_10_marla_brand_new_house_for_sale-54502298-9231-1.html
+32.5 Crore,1.2 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_old_corner_house_is_for_sale_in_f-8-54504851-166-1.html
+2.95 Crore,6 Marla,Islamabad,5 Beds,6 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_h_extension_6_marla_double_storey_new_house_for_sale-50480641-16449-1.html
+12 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_beautiful_location_modern_luxury_house_for_sale_solid_construction-54460361-160-1.html
+4 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_a_buy_your_ideal_1800_square_feet_house_in_a_prime_location_of_islamabad-54174506-16416-1.html
+11.5 Crore,10.9 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_prime_location_6bed_luxury_designer_house_for_sale_in_d-12_1_islamabad-54487082-160-1.html
+2.05 Crore,6.2 Marla,Islamabad,2 Beds,2 Baths,"Gulberg, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/gulberg_greens_gulberg_heights_ultra_luxury_furnished_2_bed_apartment_for_sale_in_gulberg_heights_islamabad-53221976-19298-1.html
+4.5 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_a_double_storey-54471549-9231-1.html
+2.45 Crore,6 Marla,Islamabad,7 Beds,7 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_h-13_6_marla_house_available_for_sale_in_h-13-54273378-1039-1.html
+5.6 Crore,6 Marla,Islamabad,4 Beds,-,"G-9, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-9_corner_house_for_sale-54218462-171-1.html
+7 Crore,8.5 Marla,Islamabad,2 Beds,3 Baths,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_diplomatic_enclave_fully_furnished_2_bed_apartment_available_for_sale-54504320-9063-1.html
+2.65 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_5_marla_house_15_marla_extra_land_garden_b_17_f_b_block-54338777-8527-1.html
+9 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_corner_house_available_for_sale_in_dha_phase_2_islamabad_in_very_reasonable_price-54088978-339-1.html
+5.25 Crore,9 Marla,Islamabad,5 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_b_17_c_1_block_35x65_double_height_designer_house_for_sale-53530158-12607-1.html
+4 Crore,4.4 Marla,Islamabad,4 Beds,3 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_3_4_44_marla_luxury_single-unit_house_for_sale_cda_sector_d-12_3_investor_rate-53609992-3156-1.html
+5.34 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_a_sector_a_designer_house_for_sale_in_bahria_enclave_islamabad-54499395-11970-1.html
+27 Crore,1.1 Kanal,Islamabad,4 Beds,4 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_7_f-7_1_beautiful_house_for_sale_in_f-7_1_islamabad_-_prime_location-54430414-3307-1.html
+3.7 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_f_experience_elite_living_5_marla_luxury_designer_house_in_dha_phase_5_sector_f_islamabad-53971131-8836-1.html
+7 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"PWD Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_pwd_housing_scheme_beautiful_house_for_sale-53600149-424-1.html
+9 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_in_d-12_you_can_find_the_perfect_house_for_sale-54065623-160-1.html
+18.25 Crore,1 Kanal,Islamabad,9 Beds,6 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-11_f_11_4_house_available_50_90_with_full_basement-54500004-163-1.html
+90 Crore,3.6 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_f_7_house_available_100_160_1777_square_yards_in_close_and_street-54457942-165-1.html
+13.9 Crore,1 Kanal,Islamabad,9 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_triple_unit_9_bedrooms_back_open_margalla_view_house_for_sale-52673302-339-1.html
+3.35 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_b-17_c-1_block_30x60_brand_new_designer_house_for_sale_luxury_finish-53520924-12607-1.html
+6.4 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_4_beautifully_constructed_house_is_available_for_sale_in_d-12_4-54076104-3157-1.html
+13 Crore,10 Marla,Islamabad,5 Beds,7 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_1_10_marla_luxury_corner_double_unit_house_for_sale_cda_sector_d-12_1_islamabad-54462618-3154-1.html
+14.5 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c2_sector_c2_1_kanal_brand_new_house_with_basement_excellent_construction_quality_sun_facing_house_available_for_sale-54210274-11988-1.html
+10 Crore,5 Kanal,Islamabad,3 Beds,3 Baths,"Naval Farms Housing Scheme, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_naval_farms_housing_scheme_naval_farms_housing_scheme_house_sized_5_kanal_is_available-54470673-1724-1.html
+16 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_corner_designer_house_for_sale_in_dha_phase_2_islamabad-54425302-339-1.html
+55 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_6_f-6_3_f_6_3_house_available_1000_square_yards_beautiful_location_for_sale-53987708-3301-1.html
+11.75 Crore,14 Marla,Islamabad,7 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_g-13_brand_new_laxuary_40_80_14_marla_for_sale-54499913-330-1.html
+1 Arab,2.6 Kanal,Islamabad,7 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_7_f-7_3_f-7_3_excellent_house_1244_square_yard_for_sale-52116517-3309-1.html
+3 Crore,12.2 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_phase_5_sector_h_askari_heights_4_ready_to_buy_a_house_in_askari_heights_4_islamabad-53719840-21450-1.html
+92 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_valley_dha_homes_beautiful_5_marla_house_for_sale_in_dha_2_bed_luxury_family_home-54362405-3226-1.html
+97 Lakh,4 Marla,Islamabad,2 Beds,3 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_4_marla_single_storey_house-54504306-340-1.html
+5.3 Crore,10 Marla,Islamabad,3 Beds,3 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_a_brand_new_10_marla_house_for_sale_in_top_city_1_-_block_a_islamabad-54200019-9231-1.html
+3.8 Crore,8 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_b-17_f_block_7_marla_brand_new_luxury_double_unit_house_for_sale_a_construction_bank_loan_available-54497108-8527-1.html
+6.75 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_10_marla_luxury_modern_house_available_for_sale_in_bahria_enclave_islamabad-54501300-11987-1.html
+2.6 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_h_brand_new_house_available_for_sale_in_bahria_enclave_islamabad-53771684-11983-1.html
+2.1 Crore,11.2 Marla,Islamabad,3 Beds,3 Baths,"Bahria Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/bahria_enclave_the_galleria_gallriea_3_bed_room_luxsrey_apartment_for_sale_in_bahria_enclave_islamabad-54505155-10002-1.html
+3.2 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_n_bharia_enclave_islamabad_sector_n_5_marla_designer_house_for_sale-54330158-11975-1.html
+4.4 Crore,4 Marla,Islamabad,3 Beds,4 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_beautiful_location_brand_new_house_for_sale-54390367-160-1.html
+14.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_b_one_kanal_luxury_house_for_sale_in_dha_defence_phase_2-54271718-3197-1.html
+42 Lakh,3.2 Marla,Islamabad,2 Beds,2 Baths,"AGOCHS, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_agochs_flat_available_for_sale_in_agochs_housing_society_islamabad-54505033-1468-1.html
+28.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_7_f-7_2_1_kanal_prime_location_livable_house_available_for_sale_near_rana_market-54424208-3308-1.html
+13.8 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_corner_house_for_sale_dha_phase_2-54292201-339-1.html
+65 Lakh,2.7 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/al_ghurair_giga_al-ghurair_giga_-_block_12_1_bedroom_defence_residency_dha_phase_2_gate_2_flat_for_sale-54287678-15117-1.html
+12.25 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_simple_effective_titles_1_kanal_beautiful_house_for_sale_in_dha_phase_2-54131304-339-1.html
+7.5 Crore,1 Kanal,Islamabad,5 Beds,5 Baths,"Kashmir Highway, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/kashmir_highway_eighteen_1_kanal_luxury_premium_villa_plot_in_eighteen_islamabad_for_sale-54155365-12602-1.html
+6.8 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c_10marla_fully_weighted_luxury_house_for_sale_c_block_b_17_islamabad-54499381-3118-1.html
+12.8 Crore,1 Kanal,Islamabad,5 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_brand_new_designer_elevated_bungalow_available_for_sale-52751379-339-1.html
+10.25 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_contemporary_design_1_kanal_brand_new_designer_house_ready_for_sale_in_dha_defence_phase_2_islamabad-54253208-339-1.html
+90 Lakh,4.1 Marla,Islamabad,2 Beds,2 Baths,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_a_green_heights_multi_garden_b-17-54439493-3116-1.html
+6.9 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/fechs_jinnah_gardens_12_marla_designer_modern_house_for_sale_in_jinnah_garden-54345022-1420-1.html
+1.55 Crore,6.2 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_3_bed_apartment_for_sale_in_elcielo_b-54491890-339-1.html
+70 Crore,2.1 Kanal,Islamabad,5 Beds,6 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_prime_location_close_to_margalla_road_f7_2_1066_syd_house_for_sale-54413659-165-1.html
+8.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_one_kanal_ultra_luxury_lavish_house_for_sale_in_dha_phase_2_islamabad-54269886-339-1.html
+4 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_5_5_marla_designer_house_available_for_sale-54375919-10991-1.html
+3.85 Crore,7 Marla,Islamabad,4 Beds,6 Baths,"FECHS, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/fechs_jinnah_gardens_7_marla_brand_new_house_for_sale_in_jinnah_garden-54345167-1420-1.html
+25 Crore,1.1 Kanal,Islamabad,5 Beds,6 Baths,"F-6, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-6_investor_alert_prime_opportunity_in_f-6_islamabad_533_sq_yards_old_demolishable_house_is_available_for_sale_in_f-6_located_in_a_prime_margalla-facing_area_near_the_main_road-54351239-164-1.html
+2.85 Crore,4 Marla,Islamabad,2 Beds,3 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-11_4_marla_double_story_house_for_sale_cda_sector_i-11_2_1440_series-54503739-706-1.html
+2.65 Crore,5.6 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_brand_new_5_marla_house_for_sale_in_f_block_b-17-54306034-8527-1.html
+3.75 Crore,4 Marla,Islamabad,3 Beds,4 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_11_i-11_2_on_excellent_location_i-11_2_house_sized_4_marla-54502994-9879-1.html
+4.25 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c1_brand_new_8_marla_modern_house_for_sale_in_block_c-1_mpchs_b-17_islamabad-54505285-12607-1.html
+8.5 Crore,10 Marla,Islamabad,9 Beds,6 Baths,"E-11, Islamabad, Islamabad Capital",Upper Portion,,,,,,,https://www.zameen.com/Property/e_11_e-11_2_brand_new_portion_for_sale_prime_location-54331239-3233-1.html
+5.3 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_f_luxurious_10_marla_a_grade_designer_house_for_sale_in_sector_f_bahria_enclave_back_open-54414245-11985-1.html
+70 Lakh,2 Marla,Islamabad,1 Bed,1 Bath,"Ghauri Town, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_ghauri_town_affordable_flat_for_sale_in_ghauri_town-53710092-1314-1.html
+4 Crore,12.2 Marla,Islamabad,3 Beds,3 Baths,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_f-11_book_a_on_excellent_location_flat_of_2750_square_feet_in_f-11-54504305-163-1.html
+8.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_a_1kanal_brand_new_designer_house_for_sale_b_17_a_block-54018434-3116-1.html
+4 Crore,8 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/b_17_faisal_margalla_city_faisal_margalla_city_30x60_single_unit_modern_design_luxury_house_for_sale_park_face-53692237-13424-1.html
+3.8 Crore,7 Marla,Islamabad,5 Beds,7 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_faisal_town_-_f-18_7_marla_designer_house_for_sale_block_a_faisal_town_f-18_islamabad-53536918-8260-1.html
+13 Crore,12 Marla,Islamabad,-,-,"G-9, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-9_corner_house_for_sale-54020334-171-1.html
+3.85 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_f_ideal_investment_living_5_marla_double_unit_house_in_dha_phase_5_sector_f_islamabad-53986249-8836-1.html
+1.1 Crore,3.3 Marla,Islamabad,1 Bed,1 Bath,"Tarnol, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/fazaia_housing_scheme_fazaia_housing_scheme_block_d_flat_for_sale_size_753_sq_ft_falcon_alpha-54290300-14687-1.html
+2.41 Crore,5.4 Marla,Islamabad,2 Beds,2 Baths,"Top City 1, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_top_city-1_kmk_tower_luxury_living_outclass_location_apartment_near_completion-54485173-1383-1.html
+5.5 Crore,6.7 Marla,Islamabad,5 Beds,6 Baths,"E-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/e_11_e-11_4_new_house_triple_storey_size_25_x_60_for_sale_in_e-11_4-53313215-3241-1.html
+3.65 Crore,7 Marla,Islamabad,4 Beds,5 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_a_brand_new_7_marla_house_for_sale_block_a_faisal_town_phase-1-53603208-16416-1.html
+4.98 Crore,8 Marla,Islamabad,4 Beds,5 Baths,"E-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_e-11_ideal_8_marla_house_available_in_e-11_e-11-54187031-329-1.html
+48 Lakh,1.9 Marla,Islamabad,1 Bed,1 Bath,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_a_1_bedroom_apartment_a_block_main_markaz_b-17_up_for_sale-54473398-3116-1.html
+13.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_dha_2_one_kanal_brand_new_luxurious_designer_furnished_house-54059995-339-1.html
+16.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_dha_phase_2_-_sector_b_1_kanal_ultra_luxury_furnished_house_for_sale_in_dha_phase_2_islamabad-54333102-3197-1.html
+5.7 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_bahria_enclave_islamabad_for_sale_sector_c1_10_marla_brand_new_house-54453014-11987-1.html
+3.46 Crore,4 Marla,Islamabad,4 Beds,5 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_25x40_4_marla_like_a_brand_new_luxury_tile_flooring_house_prime_location_for_sale_in_g-13_1-54505255-330-1.html
+3.75 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_f_experience_elite_living_5_marla_luxury_designer_house_in_dha_phase_5_sector_f_islamabad-54191806-8836-1.html
+9.95 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_brand_new_1_kanal_house_for_sale_exceptional_value-54474429-339-1.html
+3.35 Crore,12 Marla,Islamabad,3 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_phase_5_sector_h_askari_heights_4_3_bed_apartment_for_sale_askari_heights_4_dha_phase_5-54495486-21450-1.html
+6.5 Crore,10 Marla,Islamabad,6 Beds,6 Baths,"Gulberg, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/gulberg_residencia_gulberg_residencia_-_block_f_luxury_6_bed_purpose-built_house_35x70_cctv_internet_ready_to_move-54486977-9116-1.html
+90 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_valley_dha_homes_5_marla_dha_homes_for_sale_2_bed_tv_lounge_attached_baths_ready_to_move-54471086-3226-1.html
+9 Crore,9 Marla,Islamabad,3 Beds,4 Baths,"F-10, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/f_10_sukh_chayn_residence_sukh_chayn_recidence_3_bedroom_type_d_furnished_apartment_available_for_sale_beautiful_location-54487840-13589-1.html
+11.75 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_beautiful_designer_luxurious_double_unit_house_for_sale-53041867-339-1.html
+12.95 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_1_kanal_house_available_for_sale_in_top_city_1_if_you_hurry-54377777-1383-1.html
+13.9 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_modern_and_practical_solid_house_available_for_sale_in_dha_phase_2_islamabad-52732642-339-1.html
+7.55 Crore,8.9 Marla,Islamabad,2 Beds,3 Baths,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_diplomatic_enclave_two_bed_fully_furnished_apartment_available_for_sale_in_islamabad-54504330-429-1.html
+64 Crore,1.8 Kanal,Islamabad,6 Beds,7 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_ultra-modern_luxurious_house_with_pool-53815185-166-1.html
+4.65 Crore,10 Marla,Islamabad,-,-,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_get_in_touch_now_to_buy_a_10_marla_house_in_top_city_1-54493345-1383-1.html
+4 Crore,7.9 Marla,Islamabad,3 Beds,3 Baths,"G-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/g_11_3_capital_heights_stunning_on_excellent_location_1780_square_feet_flat_in_capital_heights_available-54503623-13256-1.html
+3.5 Crore,4 Marla,Islamabad,6 Beds,5 Baths,"I-10, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_10_i-10_1_i-10_1_brand_new_double_storey_house_for_sale_size_4_marla-54497222-3420-1.html
+1.25 Arab,42 Kanal,Islamabad,6 Beds,6 Baths,"Park Road, Islamabad, Islamabad Capital",Farm House,,,,,,,https://www.zameen.com/Property/islamabad_park_road_farm_house_for_sale_chak_shahzad-54454952-3485-1.html
+3.7 Crore,4 Marla,Islamabad,4 Beds,5 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_25_40_4marla_house_available_for_sale_in_g13_rent_value_1_25_lakh-54472796-330-1.html
+10 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_european_design_1_kanal_brans_new_designer_house_available_for_sale_in_dha_defense_phase_2_islamabad-54328670-339-1.html
+6.5 Crore,18 Marla,Islamabad,7 Beds,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_10marla_designers_house_triple_height_8marla_extra_land_brand_new_for_sale_b_17_e_block_islamabad-54139865-3120-1.html
+3.4 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_j_10_marla_grey_structure_available_for_sale-54504010-11981-1.html
+13 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_2_house_of_10_marla_in_d-12_2_for_sale-54390456-3155-1.html
+6.7 Crore,10 Marla,Islamabad,4 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_10_marla_designer_beautiful_house_for_sale_in_dha_phase_2_islamabad-54109059-339-1.html
+1.65 Crore,5.1 Marla,Islamabad,3 Beds,3 Baths,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_defence_residency_get_in_touch_now_to_buy_a_1150_square_feet_flat_in_defence_residency_islamabad-54504909-9914-1.html
+3.5 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/b_17_faisal_margalla_city_faisal_margalla_city_5marla_brand_new_house_for_sale_double_height_designer_luxury_home_for_sale-54426777-13424-1.html
+3.5 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_your_dream_1800_square_feet_house_is_available_in_mpchs_-_block_e-54504730-3120-1.html
+5.03 Crore,11 Marla,Islamabad,5 Beds,6 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_zam_zam_real_estate-54504661-340-1.html
+30 Crore,2 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_dha2_2_kanal_luxurious_designer_house-54377817-339-1.html
+13 Crore,14.2 Marla,Islamabad,8 Beds,-,"I-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_8_i-8_3_buying_a_house_in_islamabad-51239698-3443-1.html
+14.9 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_designer_house_available_for_sale_in_prime_location_of_dha_2_islamabad-54167266-339-1.html
+2.45 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_brand_new_5_marla_modern_design_house_for_sale_in_mpchs_block_f_b-17_islamabad-54435664-8527-1.html
+7.99 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/top_city_1_top_city_1_-_block_b_1_kanal_house_for_sale-52174198-9230-1.html
+4.9 Crore,6.7 Marla,Islamabad,5 Beds,5 Baths,"I-9, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-9_double_story_house_for_sale_location_i-9_size_6_marla-53366934-175-1.html
+10.8 Crore,1 Kanal,Islamabad,7 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_beautiful_house_for_sale_in_dha_phase_2_islamabad-54162412-339-1.html
+40 Crore,3 Kanal,Islamabad,10 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_3_kanal_non_furnished_ultra_modern_masterpiece_near_giga_mall-54022734-339-1.html
+5 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_10_marla_house_for_sale_in_bahria_enclave_islamabad-54433845-1705-1.html
+6.7 Crore,14.2 Marla,Islamabad,6 Beds,6 Baths,"CBR Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/cbr_town_cbr_town_phase_1_buy_a_centrally_located_main_double_road_3200_square_feet_house_in_cbr_town_phase_1-54212122-3147-1.html
+12.5 Crore,12 Marla,Islamabad,6 Beds,6 Baths,"G-9, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/g_9_g-9_1_4080_house_for_sale_in_g-9_1_islamabad_prime_location_margalla_facing_closed-end_street-53999642-3384-1.html
+7.25 Crore,14 Marla,Islamabad,6 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_c_b-17_c_block_14_marla_corner_designer_house_for_sale_prime_location-54487573-3118-1.html
+6.5 Crore,10 Marla,Islamabad,5 Beds,5 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_f_prime_location_house_in_dha_phase_5_-_sector_f_for_sale-54502566-8836-1.html
+95 Lakh,5 Marla,Islamabad,2 Beds,2 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_valley_dha_homes_dha_beautiful_5_marla_ideal_location_turkish_style_house_for_sale_profitable_investment-54362122-3226-1.html
+64.35 Lakh,2 Marla,Islamabad,-,1 Bath,"Faisal Town - F-18, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_c_looking_for_a_flat_in_islamabad-53453953-16418-1.html
+7.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_a_centrally_located_house_is_available_for_sale_in_top_city_1-54472449-1383-1.html
+2.7 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_5_marla_luxury_house_for_sale_single_unit_f_block_b_17_islamabad-54499242-8527-1.html
+12.25 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_35_70_house_prime_location-54487391-160-1.html
+13.25 Crore,11.8 Marla,Islamabad,3 Beds,4 Baths,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_diplomatic_enclaves_luxurious_3-bedroom_fully_furnished_corner_apartment_for_sale_in_karakoram_diplomatic_enclave-54504331-9063-1.html
+10.5 Crore,7.7 Marla,Islamabad,2 Beds,2 Baths,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_luxury_residence_flat_for_sale_diplomatic_enclave_islamabad-53891193-429-1.html
+14.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_brand_new_house_prime_location_near_to_masjid_near_to_giga_mall_near_to_aps_school_near_to_control_park_near_to_market_near_to_nova_care_hospital_near_to_punjab_cash_and_cary-54294929-339-1.html
+2.6 Crore,5 Marla,Islamabad,3 Beds,3 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_h_sector_h_5_marla_house_for_sale_3_bed_car_porch_bahria_enclave_islamabad-54493257-11983-1.html
+3.1 Crore,7.8 Marla,Islamabad,2 Beds,2 Baths,"F-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/f_11_f-11_markaz_f-11_investor_price_2bed_renovated_apartment_available_for_sale-54494434-3286-1.html
+85 Lakh,3.6 Marla,Islamabad,2 Beds,2 Baths,"Soan Garden, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_h_800_square_feet_brand_new_2-bed_apartment_for_sale_block_h_soan_garden_islamabad-54251287-3498-1.html
+12 Crore,1 Kanal,Islamabad,8 Beds,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_b_extension_1_1_kanal_main_double_road_corner_luxury_house_for_sale_multi_garden_b_17_islamabad-53920777-16519-1.html
+13.7 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_premium_living_in_dha_2_1_kanal_designer_home_for_sale_in_dha_defence_phase_ii-53981927-339-1.html
+10.95 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_brand_new_beautiful_and_stylish_house_up_for_sale_in_dha2_islamabad-53977163-339-1.html
+92 Lakh,4.1 Marla,Islamabad,2 Beds,2 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_a_prime_living_2_bed_luxury_apartment_for_sale_aviation_arcade_faisal_town_block_a_5th_floor-54346017-16416-1.html
+2.35 Crore,7.4 Marla,Islamabad,3 Beds,2 Baths,"G-11, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/g_11_g-11_3_4th_floor_corner_furnished_flat_for_sale_in_crown_tower_g-11_3_islamabad-54500519-3332-1.html
+1.56 Crore,4.3 Marla,Islamabad,1 Bed,1 Bath,"Islamabad Highway, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_islamabad_highway_975_square_feet_flat_is_available_in_affordable_price_in_islamabad_highway-54472106-1561-1.html
+7.8 Crore,1.2 Kanal,Islamabad,-,-,"G-15, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/g_15_g-15_1_ideally_located_main_double_road_house_for_sale_in_g-15_1_available-54471495-3348-1.html
+4.5 Crore,8 Marla,Islamabad,4 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_town_bahria_enclave_new_house_hanzala_real_estate-54504605-1705-1.html
+15 Crore,10.5 Marla,Islamabad,3 Beds,3 Baths,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_luxury_apartment_for_sale_diplomatic_enclave_islamabad-53891236-429-1.html
+7.75 Crore,12 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c1_12_marla_boulevard_corner_house_available_for_sale_single_unit_house_on_very_prime_location_of_sector_c1-53860970-11987-1.html
+2.24 Crore,6.2 Marla,Islamabad,2 Beds,2 Baths,"Islamabad Highway, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_islamabad_highway_stunning_and_affordable_flat_available_for_sale_in_islamabad_highway-54472105-1561-1.html
+5.8 Crore,12.9 Marla,Islamabad,7 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_b-17_extremely_beautiful_house_for_sale_with_underground_huge_water-54091077-616-1.html
+6.75 Crore,14.2 Marla,Islamabad,7 Beds,6 Baths,"CBR Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/cbr_town_cbr_town_phase_1_14_marla_brind_new_design_house_available_for_sale-54368290-3147-1.html
+39 Crore,1.3 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_investor_alert_f8_666_syd_beautiful_build_house_margalla_facing_5bed_drawing_and_dining_tv_lounge_kitchen_with_sqtr_front_open_with_front_green_belt_cda_transfer-54413743-166-1.html
+2.35 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_f_5_marla_brand_new_double_unit_house_for_sale-54482445-8527-1.html
+4.25 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_n_8_marla_brand_new_park-facing_house_with_0_5_marla_extra_land_located_in_the_prime_location_of_bahria_enclave_sector_n_islamabad_cda_lop_approved-54496059-11975-1.html
+5.4 Crore,10 Marla,Islamabad,5 Beds,-,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_f_brand_new_luxury_house_available_for_sale_in_bahria_enclave_islamabad-54366968-11985-1.html
+2.9 Crore,8 Marla,Islamabad,5 Beds,5 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_g_8_marla_gray_structure_for_sale_in_bahria_enclave_islamabad-54488169-11984-1.html
+3.65 Crore,5 Marla,Islamabad,4 Beds,4 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_f_dha_phase_5_elegant_5_marla_house_for_sale-54445858-8836-1.html
+3.85 Crore,4 Marla,Islamabad,4 Beds,5 Baths,"G-14, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/g_14_g-14_4_25_40_4marla_house_available_for_sale_in_g-14-4_rent_value_1_20_lakh-54438702-3346-1.html
+18.5 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"I-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_8_i-8_4_prime_location_1_kanal_house_for_sale_in_i-8_4_islamabad_in_only_rs_185000000-52415385-3444-1.html
+5.9 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"G-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-11_for_sale_prime_g-11_2_25x50_double-unit_house_4_bedrooms_walking_distance_to_markaz-54487179-168-1.html
+11.8 Crore,1 Kanal,Islamabad,5 Beds,-,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_elegant_elevated_furnished_brand_new_house_for_sale-52701424-339-1.html
+14 Crore,10 Marla,Islamabad,4 Beds,5 Baths,"F-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/f_11_f-11_3_brand_new_10_marla_back_open_designer_house_for_sale-54374738-3284-1.html
+75 Lakh,3 Marla,Islamabad,2 Beds,2 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_h-13_brand_new_luxury_single_story_house_available_for_sale_near_nust_double_road_gate_7-54458063-1039-1.html
+13.6 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1-kanal_designer_house_for_sale_at_prime_location_70feet_wide_street-54147796-339-1.html
+3.5 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_i_8_marla_house_for_sale_back_open_10kv_solar_installed_sector_i_bahria_enclave_islamabad-54141290-11982-1.html
+22.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_standard_50x90_old_house_is_for_sale-54504259-166-1.html
+7 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"G-15, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-15_brand_new_1_kanal_house_for_sale_in_g-15_islamabad-54457741-764-1.html
+10.2 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_one_kanal_ultra_luxury_designer_house_for_sale_in_dha_2-54415364-339-1.html
+4.85 Crore,16 Marla,Islamabad,4 Beds,5 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_f_luxury_house_for_sale-54093958-3496-1.html
+3.2 Crore,6 Marla,Islamabad,5 Beds,5 Baths,"Soan Garden, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/soan_garden_soan_garden_-_block_h_6_marla_brand_new_double_unit_house_for_sale_in_soan_garden_block_h-50559714-3498-1.html
+1.5 Crore,5 Marla,Islamabad,3 Beds,4 Baths,"H-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_h-13_brand_new_luxury_1_5_storey_house_available_for_sale_near_nust_double_road-54458105-1039-1.html
+10.25 Crore,14 Marla,Islamabad,6 Beds,6 Baths,"G-13, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_g-13_40x80_beautifull_house_for_sale_in_g-14-4-54505070-330-1.html
+13.5 Crore,1 Kanal,Islamabad,11 Beds,6 Baths,"Faisal Town - F-18, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/faisal_town_phase_1_faisal_town_phase_1_-_block_a_one_kanal_main_double_road_modren_house_for_sale_at_prime_location-50268925-16416-1.html
+87 Crore,2.5 Kanal,Islamabad,7 Beds,7 Baths,"F-7, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-7_luxury_investment_opportunity_prime_1244_square_yard_f-7_house_for_sale_prime_location_f-7_islamabad-54434070-165-1.html
+3.5 Crore,8.9 Marla,Islamabad,2 Beds,2 Baths,"B-17, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_b-17_2_bedroom_luxury_apartment-54218043-616-1.html
+5 Crore,14 Marla,Islamabad,6 Beds,6 Baths,"F-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-17_14_marla_house_for_sale_in_multi_f-17_3_islamabad_all_facility_available_cda_pproved_sector_mpchs-54463938-335-1.html
+32.5 Crore,1.2 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_60x90_corner_old_house_is_for_sale-54504848-166-1.html
+11 Crore,1 Kanal,Islamabad,6 Beds,7 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_corner_house_available_for_sale_at_dha_2-54105181-339-1.html
+1.35 Crore,6.7 Marla,Islamabad,3 Beds,3 Baths,"I-16, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_i-16_luxury_apartment_for_sale_in_i-16_islamabad_best_investment_opportunity-54453656-449-1.html
+6.1 Crore,6 Marla,Islamabad,5 Beds,5 Baths,"I-10, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_i-10_modern_design_brand_new_house_available_for_sale_in_i-10_2_6_marla-54357732-173-1.html
+10.5 Crore,10.1 Marla,Islamabad,2 Beds,3 Baths,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_karakoram_diplomatic_enclave_2_bed_with_servant_karakoram_diplomatic_enclave_flat_for_sale-49733561-9063-1.html
+12.5 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_kanal_designer_house_available_for_sale_in_dha_phase_2_islamabad-53506288-339-1.html
+5.7 Crore,4 Marla,Islamabad,3 Beds,4 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_4_house_available_in_d-12_for_sale-54462550-3157-1.html
+5.8 Crore,12 Marla,Islamabad,-,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_b_17_e_block_12_marla_brand_new_spanish_house_for_sale-53914346-3120-1.html
+5.9 Crore,12 Marla,Islamabad,5 Beds,5 Baths,"Bani Gala, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_bani_gala_12_marla_duble_story_house_for_sale_in_lvl_comnuty_near_main_muree_road_banigala-54420436-340-1.html
+70 Lakh,3.9 Marla,Islamabad,2 Beds,2 Baths,"I-12, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/i_12_i-12_1_i-12_1_d-type_all_dues_clear_7th_floor_flat-54291929-13800-1.html
+74 Lakh,2.7 Marla,Islamabad,1 Bed,1 Bath,"DHA Defence, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/dha_defence_phase_2_defence_residency_one_bed_for_sale_-_block_14-54484582-9914-1.html
+4.15 Crore,8 Marla,Islamabad,4 Beds,6 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_b17_e_block_new_house-54089856-3120-1.html
+2.98 Crore,4 Marla,Islamabad,3 Beds,5 Baths,"I-11, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/i_11_i-11_2_4_marla_brand_new_double_storey_house_for_sale_i-11_2-54370537-9879-1.html
+3 Crore,5 Marla,Islamabad,4 Beds,5 Baths,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/b_17_faisal_margalla_city_5_marla_designer_house_for_sale-54504389-13424-1.html
+5.3 Crore,4.4 Marla,Islamabad,3 Beds,4 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/d_12_d-12_1_luxury_4_44_marla_single_unit_house_for_sale_cda_sector_d-12_1_islamabad-54464176-3154-1.html
+16.9 Crore,1 Kanal,Islamabad,6 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_phase_5_dha_phase_5_-_sector_j_kanal_luxury_furnished_house_for_sale_in_dha_phase_2_islamabad-53485345-17389-1.html
+4.15 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Top City 1, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_top_city_1_10_marla_brand_new_house_for_sale-54241161-1383-1.html
+7.5 Crore,4.8 Marla,Islamabad,1 Bed,1 Bath,"Diplomatic Enclave, Islamabad, Islamabad Capital",Flat,,,,,,,https://www.zameen.com/Property/islamabad_diplomatic_enclave_luxury_apartment_for_sale_diplomatic_enclave_islamabad-53891130-429-1.html
+8.5 Crore,8 Marla,Islamabad,5 Beds,6 Baths,"D-12, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_d-12_8_marla_luxury_double_unit_house_for_sale_in_cda_sector_d-12-54488006-160-1.html
+16 Crore,1.5 Kanal,Islamabad,7 Beds,6 Baths,"DHA Defence, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/dha_defence_dha_defence_phase_2_1_5_kanal_ultra_luxurious_designer_house_for_sale-53041868-339-1.html
+5.5 Crore,10 Marla,Islamabad,5 Beds,6 Baths,"Bahria Town, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/bahria_enclave_bahria_enclave_-_sector_c2_brand_new_house_in_sector_c2-54495842-11988-1.html
+22.75 Crore,1 Kanal,Islamabad,5 Beds,6 Baths,"F-8, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/islamabad_f-8_offer_offer_investor_price_old_house_is_for_sale-54504313-166-1.html
+4.3 Crore,8 Marla,Islamabad,-,-,"B-17, Islamabad, Islamabad Capital",House,,,,,,,https://www.zameen.com/Property/mpchs_multi_gardens_mpchs_-_block_e_to_sale_you_can_find_spacious_house_in_mpchs_-_block_e-54265578-3120-1.html
